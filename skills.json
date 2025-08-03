@@ -1,0 +1,7 @@
+ {
+  "Web Developer": ["html", "css", "javascript", "react", "nodejs"],
+  "Data Scientist": ["python", "pandas", "numpy", "machine learning", "sql"],
+  "Android Developer": ["java", "kotlin", "android studio"],
+  "Cybersecurity": ["networking", "linux", "cybersecurity", "firewall"],
+  "Cloud Engineer": ["aws", "azure", "gcp","docker"]
+}
